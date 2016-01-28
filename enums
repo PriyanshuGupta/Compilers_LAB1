@@ -1,0 +1,7 @@
+        enum Tokens{TYPE=0x100,
+        	INTEGER_CONSTANT,
+        	FLOAT_CONSTANT,
+        	IDENTIFIER,
+        	RETURN,
+        	LOG_OPERANDS,
+                    OTHERS};
